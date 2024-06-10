@@ -37,9 +37,13 @@ Using tongue while crouching ---> Left Control + E
 Jumping                      ---> Space         
 Splashing from valve         ---> F         
 Attacking                    ---> Left Mouse Click        
-Air Attacking                ---> Space + Left Mouse Click           
+Air Attacking                ---> Space + Left Mouse Click        
+Using A Hive                 ---> Left Alt      
+Teleport                     ---> T      
+Open Shop UI                 ---> U      
 Climbing                     ---> W after approaching the climbable wall with D (After the first shop dialogue)         
 Camouflaging                 ---> Enter the red light area        
 Double jumping               ---> Space + Space (After the second shop dialogue)             
-Dashing                      ---> Left Alt (After the second shop dialogue)                 
-Air Dashing                  ---> Space + Left Alt (After the second shop dialogue)            
+Dashing                      ---> Left Shift (After the second shop dialogue)                 
+Air Dashing                  ---> Space + Left Shift (After the second shop dialogue)            
+Reset Player Location        ---> R      
